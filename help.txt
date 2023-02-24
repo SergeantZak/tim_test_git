@@ -4,3 +4,6 @@ This is step by step guide
 
 3. !!! Braking news
    this is where a new branch starts !!!
+
+
+4. ??? AND THIS IS EXTENDED BRANCH FROM THE NEW BRANCH???
